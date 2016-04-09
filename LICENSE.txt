@@ -1,4 +1,4 @@
-Copyright (c) 2012 Trevor Gattis
+Copyright (c) 2015 Trevor Gattis
 
 MIT License
 
